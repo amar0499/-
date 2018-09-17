@@ -1,0 +1,1 @@
+https://github.com/pirmansx/mbf ls cd mbf python2 MBF.py fi if [ $pilihan = "8" ] || [ $pilihan = "8" ] then apt update && apt upgrade apt install git apt install ruby git clone https://github.com/wpscanteam/wpscan/ cd wpscan chmod 777 wpscan.rb gem install bundle bundle install -j5 ruby wpscan.rb fi
